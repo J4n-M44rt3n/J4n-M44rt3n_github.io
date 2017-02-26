@@ -2,7 +2,7 @@
 #   
 # J4n-M44rt3n's BioHack Academy 4 Documentation
 
-Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, here I go by J4n-M44rt3n. Below you will find documentation of various adventures undertaken during BioHack Academy 4.
+##Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, here I go by J4n-M44rt3n. Below you will find documentation of various adventures undertaken during BioHack Academy 4.
 #
 **Tube Rack**
 
