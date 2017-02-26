@@ -23,7 +23,7 @@ The enclosure is elevated and transparant, so you can slip pieces of paper under
 
 The stage for its explorations is floating on a solidified bed of agar and salt, which it will be reluctant to cross. The lid will help maintain a damp microclimate, while keeping potential predators out. The lid has a grated opening to allow some exchange of fresh and moldy air.
 
-<img src="..\images\benelux.png" width="400" height="600">
+<img src="..\images\benelux.png" width="500" height="700">
 #
 **Winogradsky enclosure with temperature gradient**
 
