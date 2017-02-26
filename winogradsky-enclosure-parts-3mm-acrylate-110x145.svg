@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="110mm"
+   height="145mm"
+   viewBox="0 0 389.76377 513.77951"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="winogradsky-enclosure-parts-3mm-acrylate-600x900.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="523.54911"
+     inkscape:cy="429.3134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1858"
+     inkscape:window-height="1177"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-538.58273)">
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 106.47544,556.12196 a 70.866142,70.866142 0 0 0 -70.865204,70.86719 70.866142,70.866142 0 0 0 70.865204,70.86523 70.866142,70.866142 0 0 0 70.8653,-70.86523 70.866142,70.866142 0 0 0 -70.8653,-70.86719 z m 0,17.7168 a 53.149605,53.149605 0 0 1 53.1504,53.14843 53.149605,53.149605 0 0 1 -53.1504,53.1504 53.149605,53.149605 0 0 1 -53.148504,-53.1504 53.149605,53.149605 0 0 1 53.148504,-53.14843 z"
+       id="rect4177"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.893701,892.73613 0,141.73247 354.330099,0 0,-141.73247 z m 35.4336,14.17383 113.384799,0 0,113.38474 -113.384799,0 z m 168.306599,0 113.3848,0 0,113.38474 -113.3848,0 z"
+       id="rect4177-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.893701,733.28734 0,141.73239 354.330099,0 0,-141.73239 z m 35.4336,14.1738 113.384799,0 0,113.38476 -113.384799,0 z m 168.306599,0 113.3848,0 0,113.38476 -113.3848,0 z"
+       id="rect4177-4-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccc" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 283.64079,556.12196 a 70.866142,70.866142 0 0 0 -70.8652,70.8672 70.866142,70.866142 0 0 0 70.8652,70.86519 70.866142,70.866142 0 0 0 70.8653,-70.86519 70.866142,70.866142 0 0 0 -70.8653,-70.8672 z m 0,17.7168 a 53.149605,53.149605 0 0 1 53.1504,53.1484 53.149605,53.149605 0 0 1 -53.1504,53.1504 53.149605,53.149605 0 0 1 -53.1485,-53.1504 53.149605,53.149605 0 0 1 53.1485,-53.1484 z"
+       id="rect4177-3"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
