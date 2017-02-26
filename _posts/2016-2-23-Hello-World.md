@@ -50,4 +50,4 @@ To experimentally study such networks, I will add peltier modules to the sides o
 
 
 
-[link to google](www.google.com)
+[BioHack Academy on Facebook](https://www.facebook.com/groups/biohackacademy/)
