@@ -12,7 +12,6 @@ Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you d
 
 This is an adaptation of the BioHack Academy 4 sterile hood. It features the same Ikea embedded fan, hepa filter, and pre-filter; but a novel hood. this hood needs to be placed on a sterile surface and keeps a clear acrylic sheet between your hands and your head. No more breathing on your tiny invisible friends! I printed custom hepa filter holders and also added two extra feet on the Ikea part for stability.
 #
-
 **Slime mold arena**
 
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
@@ -23,20 +22,16 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 
 <img src="..\images\benelux.png">
 #
-
 **Winogradsky enclosure with temperature gradient**
 
 Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
 
 To experimentally study such networks, I will add peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I will add two extra lids to facilitate sampling.
 #
-
 **Fish-eye light field microscopy**
 #
-
 **Gradient petri dishes**
 #
-
 **A Charter of post-Human Rights**
 #
 [BioHack Academy on Facebook](https://www.facebook.com/groups/biohackacademy/)
