@@ -31,7 +31,9 @@ To experimentally study such networks, I will add peltier modules to the sides o
 #
 **Fish-eye light field microscopy**<BR>
 #
-**Gradient petri dishes**<BR>
+**Gradient petri dishes for directional growth**<BR>
+#
+**Gradient petri dishes for separating microbiological ecological networks**<BR>
 #
 **A Charter of post-Human Rights**<BR>
 #
