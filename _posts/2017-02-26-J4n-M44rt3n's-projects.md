@@ -22,8 +22,8 @@ The enclosure is elevated and transparant, so you can slip pieces of paper under
 
 The stage for its explorations is floating on a solidified bed of agar and salt, which it will be reluctant to cross. The lid will help maintain a damp microclimate, while keeping potential predators out. The lid has a grated opening to allow some exchange of fresh and moldy air.
 
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/slime-mold-enclosure-3mm-acrylate-350x665.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/slime-mold-hold.png" width="500" height="400" />
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-hold.png" width="500" height="400" />
 
 [air exchange grate holder](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/air-grate-holder-slime-mold.zip "to adapt and print")
 
