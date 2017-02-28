@@ -2,8 +2,8 @@
 #   
 # J4n-M44rt3n's BioHack Academy 4 Documentation
 
-Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. Below you will find documentation of various adventures during BioHack Academy 4.<BR>
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/document-it.png" width="150" height="150" />
+Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. Below you will find documentation of various adventures during BioHack Academy 4.
+
 #
 **Tube Rack**<BR>
 Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you do have some 3mm sheet and a lasercutter around. Here you will find a design to help you out. This design features optimized (staggered!) hole placement, an elevated floor plate for extra stability and easy tube manipulation, and handles for better rack mobility. Bonus feature: holes to wire a string and create an _additional_ handle.
