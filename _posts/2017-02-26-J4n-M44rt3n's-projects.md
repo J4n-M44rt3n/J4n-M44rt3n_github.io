@@ -34,8 +34,8 @@ Most micro-organisms live in complex ecological networks. The Winogradsky jar is
 
 To experimentally study such networks, I will add peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I will add two extra lids to facilitate sampling.
 
-<img src="J4n-M44rt3n_github.io/images/winobox-1.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="500" height="400" />
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="200" height="150" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="200" height="150" />
 
 #
 **Fish-eye light field microscopy**<BR>
