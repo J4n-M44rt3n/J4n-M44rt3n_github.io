@@ -22,7 +22,12 @@ The enclosure is elevated and transparant, so you can slip pieces of paper under
 
 The stage for its explorations is floating on a solidified bed of agar and salt, which it will be reluctant to cross. The lid will help maintain a damp microclimate, while keeping potential predators out. The lid has a grated opening to allow some exchange of fresh and moldy air.
 
-<img src="..\images\benelux.png" width="500" height="700">
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/slime-mold-enclosure-3mm-acrylate-350x665.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/slime-mold-hold.png" width="500" height="400" />
+
+[air exchange grate holder](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/air-grate-holder-slime-mold.zip "to adapt and print")
+
+[air exchange grate holder](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/air-grate-holder-slime-mold.zip "to adapt and print")
 #
 **Winogradsky enclosure with temperature gradient**<BR>
 Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
