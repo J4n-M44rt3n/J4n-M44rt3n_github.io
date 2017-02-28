@@ -33,6 +33,10 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
 
 To experimentally study such networks, I will add peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I will add two extra lids to facilitate sampling.
+
+<img src="J4n-M44rt3n_github.io/images/winobox-1.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="500" height="400" />
+
 #
 **Fish-eye light field microscopy**<BR>
 #
