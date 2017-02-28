@@ -5,7 +5,7 @@
 Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. Below you will find documentation of various adventures during BioHack Academy 4.
 #
 **Tube Rack**<BR>
-Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you do have some 3mm sheet and a lasercutter around. Here you will find a design to help you out. This design features optimized (staggered!) hole placement, an elevated floor plate for extra stability and easy tube manipulation, and handles for better rack mobility. Bonus feature: holes to wire a string and create an _additional_ handle.
+Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you do have some 3mm sheet and a lasercutter around. Here you will find a design to help you out. This design features optimized (staggered!) hole placement, an elevated floor plate for extra stability and easy tube manipulation, and handles for better rack mobility. Bonus feature: holes to wire a string and create an _additional_ handle.<BR>
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/tube-rack-3mm-200x250.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/rack-1.png" width="500" height="400" />
@@ -20,7 +20,7 @@ The slime mold is a remarkable creature, showing intelligent behavior in the abs
 
 The enclosure is elevated and transparant, so you can slip pieces of paper underneath and distribute treats on the floor of the enclosure according to the markings on your paper. Your slime mold will now try to make sense of your message by connecting the dots. Some say it will do this as an artistic reflection on its place in the universe. This I consider conjecture, as an advanced being such as the slime mold surely realizes Self is defined in its relation to Other, and not by engaging in solipsist noodling.
 
-The stage for its explorations is floating on a solidified bed of agar and salt, which it will be reluctant to cross. The lid will help maintain a damp microclimate, while keeping potential predators out. The lid has a grated opening to allow some exchange of fresh and moldy air. The grate is taken from a faucet, 3D printing files for the holder below. The ridge to elevate the enclosure turned out a little high, you may want to reduce it to 5mm or so.
+The stage for its explorations is floating on a solidified bed of agar and salt, which it will be reluctant to cross. The lid will help maintain a damp microclimate, while keeping potential predators out. The lid has a grated opening to allow some exchange of fresh and moldy air. The grate is taken from a faucet, 3D printing files for the holder below. The ridge to elevate the enclosure turned out a little high, you may want to reduce it to 5mm or so.<BR>
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime_mold_hold.png" width="500" height="400" />
