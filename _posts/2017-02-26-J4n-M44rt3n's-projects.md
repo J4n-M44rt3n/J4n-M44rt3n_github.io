@@ -2,7 +2,7 @@
 #   
 # J4n-M44rt3n's BioHack Academy 4 Documentation
 
-Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. I am interested in microbiological communities. No organism is an island, yet we often work with them as if they are. I would like to take steps towards an alternative approach. Below you will find documentation of various adventures in (more or less) this direction during BioHack Academy 4.
+Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. I am interested in microbiological communities. No organism is an island, yet we often work with them as if they are, as evidenced by the tiny archipelagos in our petri dishes. I aim to take steps towards an alternative approach. Below you will find documentation of various adventures in (more or less) this direction during BioHack Academy 4.
 
 #
 **Tube Rack**<BR>
