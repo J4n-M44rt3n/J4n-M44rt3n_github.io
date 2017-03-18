@@ -18,7 +18,16 @@ Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you d
 This is an adaptation of the BioHack Academy 4 sterile hood. It features the same Ikea embedded fan, hepa filter, and pre-filter; but a novel hood. this hood needs to be placed on a sterile surface and keeps a clear acrylic sheet between your hands and your head. No more breathing on your tiny invisible friends! I printed custom hepa filter holders and also added two extra feet on the Ikea part for stability.
 # 
 **Stirrer**<BR>
-Building the stirrer was a bit of a challenge. I blew the led, and the heating pad seemed not to operate at all! Raza had the same issues and [solved them too.](https://github.com/R4za/BiohackAcademy2017#24-02-2017---debugging-the-magnetic-stirrer) I adopted Raza's hack and got it to work. Sort of, the heating pad still does not work wonders.
+Building the stirrer was a bit of a challenge. I blew the led, and the heating pad seemed not to operate at all! Raza had the same issues and [solved them too.](https://github.com/R4za/BiohackAcademy2017#24-02-2017---debugging-the-magnetic-stirrer) I adopted Raza's hack and got the stirrer to work. Sort of, for the next version I am going to look for a different heating pad.
+#
+**Incubator**<BR>
+#
+**Thermocycler**<BR>
+#
+**Gelbox**<BR>
+#
+**Centrifuge**<BR>
+Someone on the internet built a dremeltool centrifuge add-on. Inspired, I built one too. Mine can be 3D printed, moving parts and all, without the need for assembly or scaffolding. The trick is to use ball and socket joints between the moving parts. I tried it at the dremeltool's maximum speed (35.000 rpm), and the add-on took it without problems.
 <BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
