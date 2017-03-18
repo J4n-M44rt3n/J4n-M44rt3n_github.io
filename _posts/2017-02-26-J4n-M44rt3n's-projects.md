@@ -31,8 +31,8 @@ Someone on the internet built a dremeltool centrifuge add-on. Inspired by this, 
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/dremelfuge.png" width="320" height="280" /> &nbsp; &nbsp; &nbsp;
 <a href="https://www.facebook.com/janmaarten.luursema/videos/vb.100000127123588/1580026075344948/?type=2&theater"><img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/dremf-mov.png" width="200" height="280"/></a>
-<BR><BR><a href="#top">*top of page*</a>
 [3D files for printing and rolling your own](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/JML_dremelfuge.zip)
+<BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
