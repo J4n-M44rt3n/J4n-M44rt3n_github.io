@@ -27,9 +27,10 @@ Building the stirrer was a bit of a challenge. I blew the led, and the heating p
 **Gelbox**<BR>
 #
 **Centrifuge**<BR>
-Someone on the internet built a dremeltool centrifuge add-on. Inspired, I built one too. Mine can be 3D printed, moving parts and all, without the need for assembly or scaffolding. The trick is to use ball and socket joints between the moving parts. I tried it at the dremeltool's maximum speed (35.000 rpm), and the add-on took it without problems.
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/dremelfuge.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
-<img src="https://www.facebook.com/janmaarten.luursema/videos/vb.100000127123588/1580026075344948/?type=2&theater" width="500" height="400" />
+Someone on the internet built a dremeltool centrifuge add-on. Inspired by this, I built one too. Mine can be 3D printed, moving parts and all, without the need for assembly or scaffolding. The trick is to use ball and socket joints between the moving parts. I tried it at the dremeltool's maximum speed (35.000 rpm), and the add-on took it without problems.
+
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/dremelfuge.png" width="320" height="280" /> &nbsp; &nbsp; &nbsp;
+<a href="https://www.facebook.com/janmaarten.luursema/videos/vb.100000127123588/1580026075344948/?type=2&theater"><img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/dremf-mov.png" width="500" height="400"/></a>
 <BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
