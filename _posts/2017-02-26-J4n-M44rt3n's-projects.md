@@ -9,8 +9,8 @@ Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I g
 **Tube Rack**<BR>
 Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you do have some 3mm sheet and a lasercutter around. Here you will find a design to help you out. This design features optimized (staggered!) hole placement, an elevated floor plate for extra stability and easy tube manipulation, and handles for better rack mobility. Bonus feature: holes to wire a string and create an _additional_ handle.
 
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/tube-rack-3mm-200x250.png" width="320" height="400" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/rack-1.png" width="500" height="400" />
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/tube-rack-3mm-200x250.png" width="200" height="250" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/rack-1.png" width="313" height="250" />
 
 [Tube rack vector file](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/tube-rack-3mm-200x250.svg "for ze lasercutter")
 #
