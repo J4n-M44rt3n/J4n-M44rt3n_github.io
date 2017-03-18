@@ -44,7 +44,6 @@ To experimentally study such networks, I will add peltier modules to the sides o
 <BR><BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
-#
 **Fish-eye light field microscopy**<BR>
 #
 **Gradient petri dishes for directional growth**<BR>
