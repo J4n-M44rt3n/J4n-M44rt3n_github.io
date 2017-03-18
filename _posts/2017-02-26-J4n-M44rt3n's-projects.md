@@ -17,7 +17,7 @@ Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you d
 **Sterile Hood**<BR>
 This is an adaptation of the BioHack Academy 4 sterile hood. It features the same Ikea embedded fan, hepa filter, and pre-filter; but a novel hood. this hood needs to be placed on a sterile surface and keeps a clear acrylic sheet between your hands and your head. No more breathing on your tiny invisible friends! I printed custom hepa filter holders and also added two extra feet on the Ikea part for stability.
 
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/hood.png" width="320" height="300" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/hood.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/sterilehood.png" width="500" height="400" />
 
 [files for cutting and printing](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/JML_sterile_hood.zip)
