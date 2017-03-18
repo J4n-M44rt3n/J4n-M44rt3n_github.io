@@ -66,7 +66,7 @@ To experimentally study such networks, I will add peltier modules to the sides o
 #
 **Gradient petri dishes for separating microbiological ecological networks**<BR>
 #
-**The alien within, are there messages in our DNA from outer space?**<BR>
+**The alien within, are there extraterrestial messages in our DNA?**<BR>
 #
 **A Charter of post-Human Rights**<BR>
 <BR><BR><a href="#top">*top of page*</a>
