@@ -1,11 +1,11 @@
 
 #   
 # J4n-M44rt3n's BioHack Academy 4 Documentation
-<a id="top"></a>
 Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. I am interested in microbiological communities. No organism is an island, yet we often work with them as if they are, as evidenced by the tiny archipelagos in our petri dishes. I aim to take steps towards an alternative approach. Below you will find documentation of various adventures in (more or less) this direction during BioHack Academy 4.
-
+<a id="top"></a>
+<BR><a href="#lab">Various Labware</a>
 #
-**Various Labware**<BR>
+# Various Labware<BR>
 **Tube Rack**<BR>
 Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you do have some 3mm sheet and a lasercutter around. Here you will find a design to help you out. This design features optimized (staggered!) hole placement, an elevated floor plate for extra stability and easy tube manipulation, and handles for better rack mobility. Bonus feature: holes to wire a string and create an _additional_ handle.
 
@@ -16,7 +16,7 @@ Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you d
 #
 **Sterile Hood**<BR>
 This is an adaptation of the BioHack Academy 4 sterile hood. It features the same Ikea embedded fan, hepa filter, and pre-filter; but a novel hood. this hood needs to be placed on a sterile surface and keeps a clear acrylic sheet between your hands and your head. No more breathing on your tiny invisible friends! I printed custom hepa filter holders and also added two extra feet on the Ikea part for stability.
-<BR><BR><a href="#top">top of page</a>
+<BR><a href="#top">top of page</a>
 #
 **Slime mold arena**<BR>
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
