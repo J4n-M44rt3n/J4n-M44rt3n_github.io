@@ -19,7 +19,7 @@ Say, you ran out of racks for your favorite 20 mm diameter test tubes, but you d
 This is an adaptation of the BioHack Academy 4 sterile hood. It features the same Ikea embedded fan, hepa filter, and pre-filter; but a novel hood. this hood needs to be placed on a sterile surface and keeps a clear acrylic sheet between your hands and your head. No more breathing on your tiny invisible friends! I printed custom hepa filter holders and also added two extra feet on the Ikea part for stability.
 <BR><BR><a href="#top">*top of page*</a>
 #
-#Slime mold arena<a id="sma"></a><BR>
+# Slime mold arena<a id="sma"></a><BR>
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
 
 The enclosure is elevated and transparant, so you can slip pieces of paper underneath and distribute treats on the floor of the enclosure according to the markings on your paper. Your slime mold will now try to make sense of your message by connecting the dots. Some say it will do this as an artistic reflection on its place in the universe. This I consider conjecture, as an advanced being such as the slime mold surely realizes Self is defined in its relation to Other, and not by engaging in solipsist noodling.
