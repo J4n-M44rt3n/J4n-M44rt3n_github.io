@@ -85,7 +85,9 @@ Slime molds have been asked to help out with optimization problems. Such problem
 #
 **A Charter of post-Human Rights**<BR>
 I really like charters. Charters interface directly with our lifes and organizations; are *for* something and thus need to be explicit about their goals; and need to build from unambiguous, specific definitions (insofar as this is possible, definitions always being somewhat fuzzy around the edges). 
+
 Increasingly, technology makes us face ethical dillemas that are outside the scope of our sense of morality. The consequences of the engineered changes that we will see in our bodies have been long anticipated in literature and philosophy, for instance in [Chesterton's 1909 'How I Found the Superman'](http://www.cse.dmu.ac.uk/~mward/gkc/books/HIFTS.html), which features the line 'He creates his own standard, you see,' she replied, with a slight sigh. 'Upon that plane he is more than Apollo. Seen from our lower plane, of course...' And she sighed again.'.
+
 As an exercise, I plan to work on a charter of post-human rights. To limit the potential sprawl of such an exercise, I will start trying to define post-human. First issue: does such a definition need to be established at the individual level, or at a group level? If at a group level, traditional definitions fall apart, notions of 'species' or 'culture' do not begin to cover the type of clustering we need to take into consideration. So the word 'cluster' it is!
 <BR><BR><a href="#top">*top of page*</a>
 #
