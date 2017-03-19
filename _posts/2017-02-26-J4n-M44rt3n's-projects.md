@@ -69,7 +69,7 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 [Acrylate enclosure vector file](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.svg "foor die laser cutter")
 #
 **Arena experiment**<BR>
-Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast], literally(https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). 
+Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). 
 <BR><BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
