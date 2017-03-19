@@ -50,7 +50,7 @@ To experimentally study such networks, I have added peltier modules to the sides
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
 #
 **Winogradsky enclosure with nutrient gradient**<BR>
-Time permitted, I will start working on a second Winogradsky jar based design. This one will have a pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or harmful substances.
+Time permitted, I will start working on a second Winogradsky jar based design. This one will have a peristaltic pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or harmful substances.
 <BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
@@ -69,7 +69,7 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 [Acrylate enclosure vector file](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.svg "foor die laser cutter")
 #
 **Arena experiment**<BR>
-Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). I want to introduce the ever-curious slime mold to the field of sociology. The challenge is this: It is easy to get around by train within the Netherlands or Belgium, but very time consuming to get from place to place between those countries. I will let the slime mold forage on a map of Belgium and the Netherland, with train stations in major cities reperesented by oat flakes. I think it will faithfully reproduce the railroad network within these countries, and fastly *improve* connectivity between them. If this works out, it means that slime molds can be used to identify adversity between groups of people, reflected in a lack of infrastructure that would be needed to share resources.
+Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). I want to introduce the ever-curious slime mold to the field of sociology. The challenge is this: It is easy to get around by train within the Netherlands or Belgium, but very time consuming to get from place to place between those countries. I will let the slime mold forage on a map of Belgium and the Netherland, with train stations in major cities reperesented by oat flakes. I think it will faithfully reproduce the railroad network within these countries, and fastly *improve* connectivity between them. If this works out, it means that slime molds can be used to identify adversity between groups of people, by highlighting a *lack* of infrastructure that would be needed to share resources.
 <BR><BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
@@ -81,7 +81,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 #
 **Fish-eye light field microscopy**<BR>
 #
-**The alien within; are there extraterrestial messages in our DNA?**<BR>
+**The alien within; are there messages hidden in the DNA of our biosphere?**<BR>
 #
 **A Charter of post-Human Rights**<BR>
 <BR><BR><a href="#top">*top of page*</a>
