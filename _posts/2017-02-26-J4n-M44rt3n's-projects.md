@@ -48,12 +48,13 @@ To experimentally study such networks, I will add peltier modules to the sides o
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
-<BR><BR><a href="#top">*top of page*</a>
 #
 **Winogradsky enclosure with nutrient gradient**<BR>
 Time permitted, I will start working on a second Winogradsky jar based design. This one will have a pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or harmful substances.
+<BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
+**Arena build**<BR>
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
 
 The enclosure is elevated and transparant, so you can slip pieces of paper underneath and distribute treats on the floor of the enclosure according to the markings on your paper. Your slime mold will now try to make sense of your message by connecting the dots. Some say it will do this as an artistic reflection on its place in the universe. This I consider conjecture, as an advanced being such as the slime mold surely realizes Self is defined in its relation to Other, and not by engaging in solipsist noodling.
@@ -66,6 +67,9 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 [3D files for air exchange grate holder](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/air-grate-holder-slime-mold.zip "to adapt and to print")
 
 [Acrylate enclosure vector file](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.svg "foor die laser cutter")
+#
+**Arena experiment**<BR>
+Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast], literally(https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). 
 <BR><BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
