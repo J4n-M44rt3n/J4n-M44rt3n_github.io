@@ -1,8 +1,8 @@
 # **J4n-M44rt3n's BioHack Academy 4 Documentation**<a id="top"></a>
-Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. I am interested in microbiological communities. No organism is an island, yet we often work with them as if they are, as evidenced by the tiny archipelagos in our petri dishes. I aim to take steps towards an alternative approach. Below you will find documentation of various adventures in (more or less) this direction during BioHack Academy 4.
+Hi! My name is Jan-Maarten, but since this name was already taken on GitHub, I go by J4n-M44rt3n. I am interested in microbiological communities. No organism is an island, yet we often work with them as if they are, as evidenced by the tiny archipelagos in our petri dishes. During BHA4, I want to develop technology to study networks of living organisms. Below you will find documentation of various adventures in (more or less) this direction during BioHack Academy 4.
 <BR><BR><a href="#lab">*Various labware*</a>
+<BR><a href="#wgb">*Winogradsky gradient boxes*</a>
 <BR><a href="#sma">*Slime mold arena*</a>
-<BR><a href="#wgb">*Winogradsky gradient box*</a>
 <BR><a href="#tbc">*to be continued*</a>
 #
 # Various labware<a id="lab"></a><BR>
@@ -40,6 +40,15 @@ Someone on the internet built a dremeltool centrifuge add-on. Inspired by this, 
 [3D files for printing and rolling your own](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/JML_dremelfuge.zip)
 <BR><BR><a href="#top">*top of page*</a>
 #
+# Winogradsky enclosure with temperature gradient<a id="wgb"></a><BR>
+Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
+
+To experimentally study such networks, I will add peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I will add two extra lids to facilitate sampling.
+
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
+<BR><BR><a href="#top">*top of page*</a>
+#
 # Slime mold arena<a id="sma"></a><BR>
 The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
 
@@ -55,21 +64,12 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 [Acrylate enclosure vector file](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-enclosure-3mm-acrylate-350x665.svg "foor die laser cutter")
 <BR><BR><a href="#top">*top of page*</a>
 #
-# Winogradsky enclosure with temperature gradient<a id="wgb"></a><BR>
-Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
-
-To experimentally study such networks, I will add peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I will add two extra lids to facilitate sampling.
-
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
-<BR><BR><a href="#top">*top of page*</a>
-#
 # to be continued<a id="tbc"></a><BR>
-**Fish-eye light field microscopy**<BR>
+**Gradient petri dishes for separating microbiological ecological networks**<BR>
 #
 **Gradient petri dishes for directional growth**<BR>
 #
-**Gradient petri dishes for separating microbiological ecological networks**<BR>
+**Fish-eye light field microscopy**<BR>
 #
 **The alien within; are there extraterrestial messages in our DNA?**<BR>
 #
