@@ -23,7 +23,7 @@ This is an adaptation of the BioHack Academy 4 sterile hood. It features the sam
 [files for cutting and printing](https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/JML_sterile_hood.zip)
 # 
 **Stirrer**<BR>
-Building the stirrer was a bit of a challenge. I blew the led, and the heating pad seemed not to operate at all! Raza had the same issues and [solved them.](https://github.com/R4za/BiohackAcademy2017#24-02-2017---debugging-the-magnetic-stirrer) I adopted Raza's hack and got the stirrer to work. Sort of, for the next version I am going to look for a different heating pad.
+Building the stirrer was a bit of a challenge. I blew the led, and the heating pad seemed not to operate at all! Raza had the same issues and [solved them.](https://github.com/R4za/BiohackAcademy2017#24-02-2017---debugging-the-magnetic-stirrer) I adopted Raza's hack and got the stirrer to work. Sort of, for the next version I will use a different heating pad.
 #
 **Incubator**<BR>
 #
