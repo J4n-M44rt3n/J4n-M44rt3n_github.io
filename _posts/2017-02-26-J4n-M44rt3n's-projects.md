@@ -70,6 +70,11 @@ The stage for its explorations is floating on a solidified bed of agar and salt,
 #
 **Arena experiment**<BR>
 Slime molds have been asked to help out with optimization problems. Such problems are computationally hard for us, but [slime molds have them for breakfast](https://www.wired.com/2010/01/slime-mold-grows-network-just-like-tokyo-rail-system/). I want to introduce the ever-curious slime mold to the field of sociology. The challenge is this: It is easy to get around by train within the Netherlands or Belgium, but very time consuming to get from place to place between those countries. I will let the slime mold forage on a map of Belgium and the Netherland, with train stations in major cities reperesented by oat flakes. I think it will faithfully reproduce the railroad network within these countries, and fastly *improve* connectivity between them. If this works out, it means that slime molds can be used to identify adversity between groups of people, by highlighting a *lack* of infrastructure that would be in place if these groups wanted to trade or share resources.
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-building-home.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-home.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-planted-tools.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-planted.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-exploring.png" width="220" height="400" /> &nbsp; &nbsp; &nbsp;
 <BR><BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
