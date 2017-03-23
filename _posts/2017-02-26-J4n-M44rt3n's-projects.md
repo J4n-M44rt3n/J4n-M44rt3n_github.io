@@ -50,12 +50,12 @@ To experimentally study such networks, I have added peltier modules to the sides
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
 #
 **Winogradsky enclosure with nutrient gradient**<BR>
-Time permitted, I will start working on a second Winogradsky jar based design. This one will have a peristaltic pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or harmful substances.
+Time permitted, I will start working on a second Winogradsky jar based design. This one will have a peristaltic pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or other stuff.
 <BR><BR><a href="#top">*top of page*</a>
 #
 # Slime mold arena<a id="sma"></a><BR>
 **Arena build**<BR>
-The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to escape its enclosure looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
+The slime mold is a remarkable creature, showing intelligent behavior in the absence of a nervous system. As such, many researchers believe it can get bored and in fact it will often try to [escape its enclosure](https://www.facebook.com/photo.php?fbid=1411892332217173&set=pcb.1397378616973217&type=3&theater) looking for adventure. I designed a home that will make it easy to keep the slime mold in your life entertained, while also making it unattractive for it to wander off.
 
 The enclosure is elevated and transparant, so you can slip pieces of paper underneath and distribute treats on the floor of the enclosure according to the markings on your paper. Your slime mold will now try to make sense of your message by connecting the dots. Some say it will do this as an artistic reflection on its place in the universe. This I consider conjecture, as an advanced being such as the slime mold surely realizes Self is defined in its relation to Other, and not by engaging in solipsist noodling.
 
