@@ -78,7 +78,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 1. Waterproofed the container and introduced salty agar.<BR>
 2. Put the lasercut acrylate map of the Betherlands, Belgium, Luxembourg, and bits of France and Germany on top after pouring solidifying standard non-nutrient agar over it.<BR>
 3. Guided by a print, I used a syringe to distribute drops of oat porridge on the agar to represent cities of over 90.000 inhabitants.<BR>
-4. Planted the Blob next to Utrecht, centrally located. Also my home town.<BR>
+4. Planted the Blob next to Utrecht, centrally located. Also, its where I currently live.<BR>
 5. My goodness! One day later, and Den Bosch, Eindhoven, and Tilburg already fell. Dordrecht is under siege. Why does it go south, not north though? I really need to get on a webcam setup to keep track.
 <BR><BR><a href="#top">*top of page*</a>
 #
@@ -91,7 +91,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 #
 **Fish-eye light field microscopy**<BR>
 #
-**Sheep with human-colored hair so you can have a woollen sweater in your color**<BR>
+**Sheep with human-colored hair so you can have a knitted sweater in your own color**<BR>
 #
 **The alien within; are there messages hidden in the DNA of our biosphere?**<BR>
 #
