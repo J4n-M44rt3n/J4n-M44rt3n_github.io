@@ -77,9 +77,11 @@ Slime molds have been asked to help out with optimization problems. Such problem
 #
 **Gradient petri dishes for separating microbiological ecological networks**<BR>
 #
-**Gradient petri dishes for directional growth**<BR>
+**Gradient petri dishes for directional mycelium growth**<BR>
 #
 **Fish-eye light field microscopy**<BR>
+#
+**Sheep with human-colored hair so you can have a woollen sweater in your color**<BR>
 #
 **The alien within; are there messages hidden in the DNA of our biosphere?**<BR>
 #
