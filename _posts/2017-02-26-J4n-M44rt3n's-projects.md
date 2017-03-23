@@ -80,7 +80,8 @@ Slime molds have been asked to help out with optimization problems. Such problem
 3. Guided by a print, I used a syringe to distribute drops of oat porridge on the agar to represent cities of over 90.000 inhabitants.<BR>
 4. Planted the Blob next to Utrecht, centrally located. Also, its where I currently live.<BR>
 5. My goodness! One day later, and Den Bosch, Eindhoven, and Tilburg already fell. Dordrecht is under siege. Why does it go south, not north though? I really need to get on building a webcam setup to keep track.
-<BR><BR><a href="#top">*top of page*</a>
+
+<BR><a href="#top">*top of page*</a>
 #
 # to be continued<a id="tbc"></a><BR>
 **Self-contained microfluidic devices 'ecosystem on a chip'**<BR>
