@@ -74,23 +74,23 @@ Slime molds have been asked to help out with optimization problems. Such problem
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-home.png" width="160" height="200" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-planted-tools.png" width="400" height="200" /><BR><BR>
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-planted.png" width="300" height="200" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-exploring.png" width="200" height="200" /><BR>
-2017/03/20<BR>
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slime-mold-exploring.png" width="200" height="200" /><BR><BR>
+. 2017/03/20<BR>
 1. Waterproofed the container and introduced salty agar.<BR>
 2. Put the lasercut acrylate map of the Betherlands, Belgium, Luxembourg, and bits of France and Germany on top after pouring solidifying standard non-nutrient agar over it.<BR>
 3. Guided by a print, I used a syringe to distribute drops of oat porridge on the agar to represent cities of over 90.000 inhabitants.<BR>
-4. Planted the Blob next to Utrecht, centrally located. Also, its where I currently live.<BR>
+4. Planted the Blob next to Utrecht, centrally located. Also, its where I live.<BR>
 2017/03/21<BR>
 5. My goodness! One day later, and Den Bosch, Eindhoven, and Tilburg already fell. Dordrecht is under siege. Why does it go south, not north though? I really need to get on building a webcam setup to keep track.<BR><BR>
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/moldymold-2.png" width="160" height="200" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/moldymold.png" width="240" height="200" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/salty-agar.png" width="300" height="200" /><BR><BR>
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/mold-fed.png" width="300" height="200" /> &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slimemoldandi.png" width="200" height="200" /><BR>
-2017/03/27<BR>
-1. Outran by a slime mold.. I gave it a week to solve this puzzle, but when I checked this Monday it had already left the area, leaving the husks of the plundered cities to a true mold. Are they avoiding eachother? Is the slime mold bored?<BR>
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/mold-fed.png" width="160" height="200" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slimemoldandi.png" width="300" height="200" /><BR><BR>
+. 2017/03/27<BR>
+1. Outrun by a slime mold.. I gave it a week to solve this puzzle, but when I checked this Monday it had already left the area, leaving the husks of the plundered cities to a true mold. Are they avoiding eachother? Is the slime mold bored?<BR>
 2. Close up of the situation.<BR>
-3. Evidence of failed attempts to escape. The salty agar works! I used a 100/1/5 weight ratio for water/agar/salt. Next time I'll mix less salt. I cleaned the contaminated area and added more oats, it had depleted most of it. It likes a lot of food at room temperature!<BR>
+3. Evidence of failed attempts to move on. The salty agar works! I used a 100/1/5 weight ratio for water/agar/salt. Next time I'll mix less salt. I cleaned the contaminated area and added more oats, it had depleted most of it. It likes a lot of food at room temperature!<BR>
 2017/03/21<BR>
 4. Happily munching away in a future Belgium with random new cities.<BR>
 5. Go, slime mold, go.<BR><BR>
