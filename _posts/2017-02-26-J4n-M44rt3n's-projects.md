@@ -90,7 +90,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 2017/03/27<BR>
 1. Outrun by a slime mold.. I gave it a week to solve this puzzle, but when I checked today it had already left the area, leaving the husks of the plundered cities to a true mold. Are they avoiding eachother? Is the slime mold bored?<BR>
 2. Close up of the situation.<BR>
-3. Evidence of failed attempts to escape the container. The salty agar works! Next time I will lower the amount of salt. I cleaned the contaminated area and added more oats, it had depleted most of it. At room temperature, it likes a lot of food.<BR><BR>
+3. Evidence of failed attempts to escape the container. The salty agar works! Next time I will lower the amount of salt. I cleaned the contaminated area and added more oats, it had depleted most of it. At room temperature, it eats a lot.<BR><BR>
 2017/03/21<BR>
 4. Happily munching away in a future Belgium with random new cities.<BR>
 5. Go, slime mold, go.<BR>
