@@ -79,7 +79,12 @@ Slime molds have been asked to help out with optimization problems. Such problem
 2. Put the lasercut acrylate map of the Betherlands, Belgium, Luxembourg, and bits of France and Germany on top after pouring solidifying standard non-nutrient agar over it.<BR>
 3. Guided by a print, I used a syringe to distribute drops of oat porridge on the agar to represent cities of over 90.000 inhabitants.<BR>
 4. Planted the Blob next to Utrecht, centrally located. Also, its where I currently live.<BR>
-5. My goodness! One day later, and Den Bosch, Eindhoven, and Tilburg already fell. Dordrecht is under siege. Why does it go south, not north though? I really need to get on building a webcam setup to keep track.
+5. My goodness! One day later, and Den Bosch, Eindhoven, and Tilburg already fell. Dordrecht is under siege. Why does it go south, not north though? I really need to get on building a webcam setup to keep track.<BR><BR>
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/moldymold-2.png" width="240" height="200" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/moldymold.png" width="160" height="200" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/salty-agar.png" width="400" height="200" /><BR><BR>
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/mold-fed.png" width="300" height="200" /> &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/slimemoldandi.png" width="200" height="200" /><BR>
 
 <BR><a href="#top">*top of page*</a>
 #
