@@ -48,6 +48,8 @@ To experimentally study such networks, I have added peltier modules to the sides
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-1.png" width="320" height="240" />&nbsp; &nbsp; &nbsp;
+<img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-2.png" width="320" height="240" />
 #
 **Winogradsky enclosure with nutrient gradient**<BR>
 Time permitted, I will start working on a second Winogradsky jar based design. This one will have a peristaltic pump on either side to allow the introduction of nutrients. Or additional microorganisms. Or other stuff.
