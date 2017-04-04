@@ -44,12 +44,12 @@ A person who goes by cathalgarvey [built a dremelfuge](http://www.thingiverse.co
 **Winogradsky enclosure with temperature gradient**<BR>
 Most micro-organisms live in complex ecological networks. The Winogradsky jar is one of the few tools available to study such networks. A Winogradsky jar is a sealed container in which a micro-organism-rich sample has been scooped, along with optional added ingredients. Under gravity, and in interaction with each other, the micro-organisms often will self-organize in distinct layers that feed on each others waste products.
 
-To experimentally study such networks, I have added peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I have added two extra lids to facilitate sampling. I am now working on the electronics and programming.
+To experimentally study such networks, I have added peltier modules to the sides of a rectangular Winogradsky jar (an adapted airtight, transparant food container). In this way, a temperature gradient can be introduced at a ninety degree angle relative to gravity´s vector. On top I have added two extra lids to facilitate sampling. Now working on the electronics and programming.
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
 
-I am finished with the electronics now, and think I have made headway on the programming. Not yet tested anything, more info and downloadables later!
+2017-04-04 - I am finished with the electronics now, and think I have made headway on the programming. Not yet tested anything, more info and downloadables later!
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-1.png" width="320" height="240" />&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-2.png" width="320" height="240" />
