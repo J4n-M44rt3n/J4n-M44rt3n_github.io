@@ -49,7 +49,7 @@ To experimentally study such networks, I have added peltier modules to the sides
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-1.png" width="320" height="240" /> &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/winobox-2.png" width="320" height="240" />
 
-I have done the electronics now, and think I have made headway on the programming too. Not yet tested anything, more info and downloadables later.
+I am finished with the electronics now, and think I have made headway on the programming. Not yet tested anything, more info and downloadables later!
 
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-1.png" width="320" height="240" />&nbsp; &nbsp; &nbsp;
 <img src="https://github.com/J4n-M44rt3n/J4n-M44rt3n_github.io/blob/master/images/Winogradsky-Hotbox-2.png" width="320" height="240" />
