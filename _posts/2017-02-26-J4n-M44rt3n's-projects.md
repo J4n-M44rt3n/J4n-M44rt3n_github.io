@@ -99,7 +99,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 2017/03/21<BR>
 4. Happily munching away in a future Belgium with random new cities.<BR>
 5. Go, slime mold, go.<BR><BR>
-**2017/06/02 -> From now on, new slime mold projects will be hosted at [Heather Barnett's Slime mold collective](http://slimoco.ning.com/)**
+**2017/06/02 -> From now on, slime mold projects will be hosted at [Heather Barnett's Slime mold collective](http://slimoco.ning.com/)**
 
 <BR><a href="#top">*top of page*</a>
 #
