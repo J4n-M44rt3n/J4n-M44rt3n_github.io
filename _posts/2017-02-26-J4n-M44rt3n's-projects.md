@@ -99,7 +99,7 @@ Slime molds have been asked to help out with optimization problems. Such problem
 2017/03/21<BR>
 4. Happily munching away in a future Belgium with random new cities.<BR>
 5. Go, slime mold, go.<BR><BR>
-2017/06/02 -> From now on, new slime mold projects will be hosted at [Heather Barnett's Slime mold collective](http://slimoco.ning.com/)
+**2017/06/02 -> From now on, new slime mold projects will be hosted at [Heather Barnett's Slime mold collective](http://slimoco.ning.com/)**
 
 <BR><a href="#top">*top of page*</a>
 #
@@ -113,8 +113,6 @@ Slime molds have been asked to help out with optimization problems. Such problem
 **Fish-eye light field microscopy**<BR>
 #
 **Sheep with human-colored hair so you can have a knitted sweater in your own color**<BR>
-#
-**The alien within; are there messages hidden in the DNA of our biosphere?**<BR>
 #
 **A Charter of post-Human Rights**<BR>
 I really like charters. Charters interface directly with our lifes and organizations; are *for* something and thus need to be explicit about their goals; and need to build from unambiguous, specific definitions (insofar as this is possible, definitions always being somewhat fuzzy around the edges). 
