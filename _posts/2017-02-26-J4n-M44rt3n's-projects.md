@@ -98,7 +98,8 @@ Slime molds have been asked to help out with optimization problems. Such problem
 3. Evidence of failed attempts to escape the container. The salty agar works! Next time I will lower the amount of salt. I cleaned the contaminated area and added more oats, it had depleted most of it. At room temperature, it eats a lot.<BR><BR>
 2017/03/21<BR>
 4. Happily munching away in a future Belgium with random new cities.<BR>
-5. Go, slime mold, go.<BR>
+5. Go, slime mold, go.<BR><BR>
+2017/06/02 -> From now on, new slime mold projects will be hosted at [Heather Barnett's Slime mold collective](http://slimoco.ning.com/)
 
 <BR><a href="#top">*top of page*</a>
 #
